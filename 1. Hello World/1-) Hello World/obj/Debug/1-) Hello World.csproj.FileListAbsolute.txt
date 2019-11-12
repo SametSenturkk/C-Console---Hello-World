@@ -1,0 +1,6 @@
+C:\Users\Samet\Desktop\Yazılım\2019-20 Sezonu\C# Console Programming\1-) Hello World\1-) Hello World\bin\Debug\1-) Hello World.exe.config
+C:\Users\Samet\Desktop\Yazılım\2019-20 Sezonu\C# Console Programming\1-) Hello World\1-) Hello World\bin\Debug\1-) Hello World.exe
+C:\Users\Samet\Desktop\Yazılım\2019-20 Sezonu\C# Console Programming\1-) Hello World\1-) Hello World\bin\Debug\1-) Hello World.pdb
+C:\Users\Samet\Desktop\Yazılım\2019-20 Sezonu\C# Console Programming\1-) Hello World\1-) Hello World\obj\Debug\1-) Hello World.csprojResolveAssemblyReference.cache
+C:\Users\Samet\Desktop\Yazılım\2019-20 Sezonu\C# Console Programming\1-) Hello World\1-) Hello World\obj\Debug\1-) Hello World.exe
+C:\Users\Samet\Desktop\Yazılım\2019-20 Sezonu\C# Console Programming\1-) Hello World\1-) Hello World\obj\Debug\1-) Hello World.pdb
